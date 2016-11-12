@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+}
+.topic {
+	margin: 0.25em;
+}
+form { margin: 0.5em; }
+.item {
+	float: left;
+}
+#gifsDiv {
+	clear: both;
+	display: table;
+	content: "";
+	width: 90%;
+	margin: 0 auto;
+}
+#gifsDiv img {
+	margin: 1em 1em 1em 0;
+}
+#add-topic { margin: 0.5em 0; }
